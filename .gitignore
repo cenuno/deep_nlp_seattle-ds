@@ -1,3 +1,7 @@
+# Large data files
+JEOPARDY_QUESTIONS1.json
+questions-words.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
